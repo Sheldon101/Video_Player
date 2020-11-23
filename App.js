@@ -1,4 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
+//import { StatusBar } from 'expo-status-bar';
 //import React from 'react';
 import React, { useState, useEffect } from 'react';
 import {Button, StyleSheet, Text,Dimensions, View,Platform} from 'react-native';
